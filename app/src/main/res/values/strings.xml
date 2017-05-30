@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPaint</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_penColor">Change Pen Color</string>
+    <string name="action_bgColor">Change Background Color</string>
+    <string name="action_penSize">Change Pen Size</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="clear">Clear</string>
+    <string name="undo">undo</string>
+</resources>

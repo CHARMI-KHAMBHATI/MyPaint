@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="default_rainbow">
+        <item>@color/tomato</item>
+        <item>@color/tangerine</item>
+        <item>@color/banana</item>
+        <item>@color/basil</item>
+        <item>@color/sage</item>
+        <item>@color/peacock</item>
+        <item>@color/blueberry</item>
+        <item>@color/lavender</item>
+        <item>@color/grape</item>
+        <item>@color/flamingo</item>
+        <item>@color/graphite</item>
+    </array>
+    <string-array name="default_rainbow_name">
+        <item>@string/tomato</item>
+        <item>@string/tangerine</item>
+        <item>@string/banana</item>
+        <item>@string/basil</item>
+        <item>@string/sage</item>
+        <item>@string/peacock</item>
+        <item>@string/blueberry</item>
+        <item>@string/lavender</item>
+        <item>@string/grape</item>
+        <item>@string/flamingo</item>
+        <item>@string/graphite</item>
+    </string-array>
+    <color name="azure">#007FFF</color>
+    <color name="banana">#f6bf26</color>
+    <color name="basil">#0b8043</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue_light">#33b5e5</color>
+    <color name="blueberry">#3f51b5</color>
+    <color name="bright_pink">#FF007F</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="flamingo">#e67c73</color>
+    <color name="grape">#8e24aa</color>
+    <color name="graphite">#616161</color>
+    <color name="green">#00FF00</color>
+    <color name="lavender">#7986cb</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="orange">#FF7F00</color>
+    <color name="orange_dark">#ff8800</color>
+    <color name="peacock">#039be5</color>
+    <color name="red">#FF0000</color>
+    <color name="red_light">#ff4444</color>
+    <color name="sage">#33b679</color>
+    <color name="tangerine">#f4511e</color>
+    <color name="tomato">#d50000</color>
+    <color name="violet">#7F00FF</color>
+    <color name="yellow">#FFFF00</color>
+    <declare-styleable name="ColorPreference"><attr format="string|reference" name="dialogTitle"/><attr format="reference" name="colors"/><attr format="integer" name="columns"/><attr format="boolean" name="material"/></declare-styleable>
+    <dimen name="color_swatch_large">64dip</dimen>
+    <dimen name="color_swatch_margins_large">8dip</dimen>
+    <dimen name="color_swatch_margins_small">4dip</dimen>
+    <dimen name="color_swatch_small">48dip</dimen>
+    <string name="banana">Banana</string>
+    <string name="basil">Basil</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="color_picker_default_title">Select a Color</string>
+    <string name="color_swatch_description">Color <ns1:g example="14" id="color_index">%1$d</ns1:g></string>
+    <string name="color_swatch_description_selected">Color <ns1:g example="14" id="color_index">%1$d</ns1:g> selected</string>
+    <string name="default_color">Default color</string>
+    <string name="flamingo">Flamingo</string>
+    <string name="grape">Grape</string>
+    <string name="graphite">Graphite</string>
+    <string name="lavender">Lavender</string>
+    <string name="peacock">Peacock</string>
+    <string name="sage">Sage</string>
+    <string name="tangerine">Tangerine</string>
+    <string name="tomato">Tomato</string>
+</resources>
